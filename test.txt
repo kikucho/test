@@ -1,3 +1,7 @@
 This is the test text!
+<<<<<<< HEAD
 user2 add
 競合テストbyuser1
+=======
+競合テストbyuser2
+>>>>>>> 71e6e5cc5ca2f080b2dde1fb6f81a55bba9abd2e
